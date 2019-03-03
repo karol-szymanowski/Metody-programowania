@@ -21,7 +21,7 @@ public:
 		cout << endl << "Cena:         " << this->cena_produktu;
 		cout << endl << "Data zakupu:  " << this->data_zakupu;
 		cout << endl << "Liczba sztuk: " << this->liczba_sztuk;
-		cout << endl << "Koszt:        " << this->podaj_koszt() << endl << "__________________" << endl << endl;
+		cout << endl << "Koszt:        " << this->podaj_koszt() << endl << "__________________" << endl;
 	}
 	string podaj_nazwe_produktu() {
 
