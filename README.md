@@ -6,7 +6,7 @@ Rozwiązania oraz treści zadań znajdują się na poszczególnych gałęziach t
 
 ## Zadania:
 
-1. [Klasy i obiekty](tree/zadanie-1)
+1. [Klasy i obiekty](https://github.com/tetrash/Metody-programowania/tree/zadanie-1)
 1. ~~Zjazd 2~~
 1. ~~Zjazd 3~~
 1. ~~Zjazd 4~~
